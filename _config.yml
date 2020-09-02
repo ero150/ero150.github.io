@@ -28,7 +28,8 @@ twitter_username: esadovsky150
 github_username:  ero150
 
 # Build settings
-theme: minima
+# Removed minima and changed to normal theme
+#theme: minima
 plugins:
   - jekyll-feed
 
